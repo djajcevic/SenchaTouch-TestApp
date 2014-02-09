@@ -40,7 +40,7 @@ Ext.define('TestApp.view.Main', {
                     },
                     {
                         xtype: 'video',
-                        url: 'http://player.vimeo.com/video/76568053',
+                        url: 'noah.mp4',
                         posterUrl: 'http://b.vimeocdn.com/ts/261/062/261062119_640.jpg'
                     }
                 ]
